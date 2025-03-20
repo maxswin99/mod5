@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "mod5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
